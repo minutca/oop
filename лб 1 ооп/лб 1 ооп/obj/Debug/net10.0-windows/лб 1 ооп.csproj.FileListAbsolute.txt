@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\лб 1 ооп\лб 1 ооп\bin\Debug\net10.0-windows\лб 1 ооп.exe
+C:\Users\User\source\repos\лб 1 ооп\лб 1 ооп\bin\Debug\net10.0-windows\лб 1 ооп.deps.json
+C:\Users\User\source\repos\лб 1 ооп\лб 1 ооп\bin\Debug\net10.0-windows\лб 1 ооп.runtimeconfig.json
+C:\Users\User\source\repos\лб 1 ооп\лб 1 ооп\bin\Debug\net10.0-windows\лб 1 ооп.dll
+C:\Users\User\source\repos\лб 1 ооп\лб 1 ооп\bin\Debug\net10.0-windows\лб 1 ооп.pdb
+C:\Users\User\source\repos\лб 1 ооп\лб 1 ооп\obj\Debug\net10.0-windows\лб_1_ооп.FrmMain.resources
+C:\Users\User\source\repos\лб 1 ооп\лб 1 ооп\obj\Debug\net10.0-windows\лб_1_ооп.Properties.Resources.resources
+C:\Users\User\source\repos\лб 1 ооп\лб 1 ооп\obj\Debug\net10.0-windows\лб 1 ооп.csproj.GenerateResource.cache
+C:\Users\User\source\repos\лб 1 ооп\лб 1 ооп\obj\Debug\net10.0-windows\лб 1 ооп.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\лб 1 ооп\лб 1 ооп\obj\Debug\net10.0-windows\лб 1 ооп.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\лб 1 ооп\лб 1 ооп\obj\Debug\net10.0-windows\лб 1 ооп.AssemblyInfo.cs
+C:\Users\User\source\repos\лб 1 ооп\лб 1 ооп\obj\Debug\net10.0-windows\лб 1 ооп.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\лб 1 ооп\лб 1 ооп\obj\Debug\net10.0-windows\лб 1 ооп.dll
+C:\Users\User\source\repos\лб 1 ооп\лб 1 ооп\obj\Debug\net10.0-windows\refint\лб 1 ооп.dll
+C:\Users\User\source\repos\лб 1 ооп\лб 1 ооп\obj\Debug\net10.0-windows\лб 1 ооп.pdb
+C:\Users\User\source\repos\лб 1 ооп\лб 1 ооп\obj\Debug\net10.0-windows\лб 1 ооп.genruntimeconfig.cache
+C:\Users\User\source\repos\лб 1 ооп\лб 1 ооп\obj\Debug\net10.0-windows\ref\лб 1 ооп.dll
