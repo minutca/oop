@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\lb 17\lb 17\obj\Debug\net10.0-windows\lb_17.Form1.resources
+C:\Users\User\source\repos\lb 17\lb 17\obj\Debug\net10.0-windows\lb 17.csproj.GenerateResource.cache
+C:\Users\User\source\repos\lb 17\lb 17\obj\Debug\net10.0-windows\lb 17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\lb 17\lb 17\obj\Debug\net10.0-windows\lb 17.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\lb 17\lb 17\obj\Debug\net10.0-windows\lb 17.AssemblyInfo.cs
+C:\Users\User\source\repos\lb 17\lb 17\obj\Debug\net10.0-windows\lb 17.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lb 17\lb 17\bin\Debug\net10.0-windows\lb 17.exe
+C:\Users\User\source\repos\lb 17\lb 17\bin\Debug\net10.0-windows\lb 17.deps.json
+C:\Users\User\source\repos\lb 17\lb 17\bin\Debug\net10.0-windows\lb 17.runtimeconfig.json
+C:\Users\User\source\repos\lb 17\lb 17\bin\Debug\net10.0-windows\lb 17.dll
+C:\Users\User\source\repos\lb 17\lb 17\bin\Debug\net10.0-windows\lb 17.pdb
+C:\Users\User\source\repos\lb 17\lb 17\obj\Debug\net10.0-windows\lb 17.dll
+C:\Users\User\source\repos\lb 17\lb 17\obj\Debug\net10.0-windows\refint\lb 17.dll
+C:\Users\User\source\repos\lb 17\lb 17\obj\Debug\net10.0-windows\lb 17.pdb
+C:\Users\User\source\repos\lb 17\lb 17\obj\Debug\net10.0-windows\lb 17.genruntimeconfig.cache
+C:\Users\User\source\repos\lb 17\lb 17\obj\Debug\net10.0-windows\ref\lb 17.dll
