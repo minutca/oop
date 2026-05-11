@@ -1,0 +1,44 @@
+﻿<Window x:Class="Lab22.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Lab22" Height="450" Width="800">
+
+    <DockPanel>
+
+        <!-- Toolbar -->
+        <ToolBar DockPanel.Dock="Top">
+
+            <!-- Відкрити -->
+            <Button Command="ApplicationCommands.Open" Content="Відкрити"/>
+
+            <!-- Зберегти -->
+            <Button Command="ApplicationCommands.Save" Content="Зберегти"/>
+
+            <Separator/>
+
+            <!-- Жирний -->
+            <ToggleButton Command="EditingCommands.ToggleBold" Content="B"/>
+
+            <!-- Курсив -->
+            <ToggleButton Command="EditingCommands.ToggleItalic" Content="I"/>
+
+            <!-- Підкреслення -->
+            <ToggleButton Command="EditingCommands.ToggleUnderline" Content="U"/>
+
+            <Separator/>
+
+            <!-- Шрифт -->
+            <ComboBox Name="fontFamilyBox" Width="150"
+                      SelectionChanged="fontFamilyBox_SelectionChanged"/>
+
+            <!-- Розмір -->
+            <ComboBox Name="fontSizeBox" Width="80"
+                      SelectionChanged="fontSizeBox_SelectionChanged"/>
+
+        </ToolBar>
+
+        <!-- Текстове поле -->
+        <RichTextBox Name="textBox"/>
+
+    </DockPanel>
+</Window>
