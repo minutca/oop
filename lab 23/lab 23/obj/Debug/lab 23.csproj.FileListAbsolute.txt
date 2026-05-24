@@ -1,0 +1,10 @@
+E:\VisualStudioProjects\lab 23\lab 23\obj\Debug\lab 23.csproj.AssemblyReference.cache
+E:\VisualStudioProjects\lab 23\lab 23\obj\Debug\lab_23.Form1.resources
+E:\VisualStudioProjects\lab 23\lab 23\obj\Debug\lab_23.Properties.Resources.resources
+E:\VisualStudioProjects\lab 23\lab 23\obj\Debug\lab 23.csproj.GenerateResource.cache
+E:\VisualStudioProjects\lab 23\lab 23\obj\Debug\lab 23.csproj.CoreCompileInputs.cache
+E:\VisualStudioProjects\lab 23\lab 23\bin\Debug\lab 23.exe.config
+E:\VisualStudioProjects\lab 23\lab 23\bin\Debug\lab 23.exe
+E:\VisualStudioProjects\lab 23\lab 23\bin\Debug\lab 23.pdb
+E:\VisualStudioProjects\lab 23\lab 23\obj\Debug\lab 23.exe
+E:\VisualStudioProjects\lab 23\lab 23\obj\Debug\lab 23.pdb
