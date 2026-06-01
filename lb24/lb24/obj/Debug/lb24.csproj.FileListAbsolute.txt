@@ -1,0 +1,10 @@
+E:\VisualStudioProjects\lb24\lb24\bin\Debug\lb24.exe.config
+E:\VisualStudioProjects\lb24\lb24\bin\Debug\lb24.exe
+E:\VisualStudioProjects\lb24\lb24\bin\Debug\lb24.pdb
+E:\VisualStudioProjects\lb24\lb24\obj\Debug\lb24.csproj.AssemblyReference.cache
+E:\VisualStudioProjects\lb24\lb24\obj\Debug\lb24.Form1.resources
+E:\VisualStudioProjects\lb24\lb24\obj\Debug\lb24.Properties.Resources.resources
+E:\VisualStudioProjects\lb24\lb24\obj\Debug\lb24.csproj.GenerateResource.cache
+E:\VisualStudioProjects\lb24\lb24\obj\Debug\lb24.csproj.CoreCompileInputs.cache
+E:\VisualStudioProjects\lb24\lb24\obj\Debug\lb24.exe
+E:\VisualStudioProjects\lb24\lb24\obj\Debug\lb24.pdb
