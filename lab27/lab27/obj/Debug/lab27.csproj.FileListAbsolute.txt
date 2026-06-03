@@ -1,0 +1,10 @@
+E:\VisualStudioProjects\lab27\lab27\obj\Debug\lab27.csproj.AssemblyReference.cache
+E:\VisualStudioProjects\lab27\lab27\obj\Debug\Lab27.Form1.resources
+E:\VisualStudioProjects\lab27\lab27\obj\Debug\lab27.Properties.Resources.resources
+E:\VisualStudioProjects\lab27\lab27\obj\Debug\lab27.csproj.GenerateResource.cache
+E:\VisualStudioProjects\lab27\lab27\obj\Debug\lab27.csproj.CoreCompileInputs.cache
+E:\VisualStudioProjects\lab27\lab27\bin\Debug\lab27.exe.config
+E:\VisualStudioProjects\lab27\lab27\bin\Debug\lab27.exe
+E:\VisualStudioProjects\lab27\lab27\bin\Debug\lab27.pdb
+E:\VisualStudioProjects\lab27\lab27\obj\Debug\lab27.exe
+E:\VisualStudioProjects\lab27\lab27\obj\Debug\lab27.pdb
