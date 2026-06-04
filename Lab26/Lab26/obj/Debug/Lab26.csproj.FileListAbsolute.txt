@@ -1,0 +1,11 @@
+E:\VisualStudioProjects\Lab26\Lab26\bin\Debug\Lab26.exe.config
+E:\VisualStudioProjects\Lab26\Lab26\bin\Debug\Lab26.exe
+E:\VisualStudioProjects\Lab26\Lab26\bin\Debug\Lab26.pdb
+E:\VisualStudioProjects\Lab26\Lab26\obj\Debug\Lab26.csproj.AssemblyReference.cache
+E:\VisualStudioProjects\Lab26\Lab26\obj\Debug\Lab26.csproj.ResolveComReference.cache
+E:\VisualStudioProjects\Lab26\Lab26\obj\Debug\Lab26.Form1.resources
+E:\VisualStudioProjects\Lab26\Lab26\obj\Debug\Lab26.Properties.Resources.resources
+E:\VisualStudioProjects\Lab26\Lab26\obj\Debug\Lab26.csproj.GenerateResource.cache
+E:\VisualStudioProjects\Lab26\Lab26\obj\Debug\Lab26.csproj.CoreCompileInputs.cache
+E:\VisualStudioProjects\Lab26\Lab26\obj\Debug\Lab26.exe
+E:\VisualStudioProjects\Lab26\Lab26\obj\Debug\Lab26.pdb
