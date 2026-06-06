@@ -1,0 +1,10 @@
+E:\VisualStudioProjects\lab 28\lab 28\obj\Debug\lab 29.csproj.AssemblyReference.cache
+E:\VisualStudioProjects\lab 28\lab 28\obj\Debug\UdpChat.Form1.resources
+E:\VisualStudioProjects\lab 28\lab 28\obj\Debug\lab_28.Properties.Resources.resources
+E:\VisualStudioProjects\lab 28\lab 28\obj\Debug\lab 29.csproj.GenerateResource.cache
+E:\VisualStudioProjects\lab 28\lab 28\obj\Debug\lab 29.csproj.CoreCompileInputs.cache
+E:\VisualStudioProjects\lab 28\lab 28\bin\Debug\lab 28.exe.config
+E:\VisualStudioProjects\lab 28\lab 28\bin\Debug\lab 28.exe
+E:\VisualStudioProjects\lab 28\lab 28\bin\Debug\lab 28.pdb
+E:\VisualStudioProjects\lab 28\lab 28\obj\Debug\lab 28.exe
+E:\VisualStudioProjects\lab 28\lab 28\obj\Debug\lab 28.pdb
